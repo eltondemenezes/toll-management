@@ -1,0 +1,15 @@
+.vehicle-list-bar {
+    background-color: #F0EEED;
+    border-radius: 5px;
+    padding: 10px 0;
+}
+
+.vehicle-list {
+    padding: 15px 0;
+    font-weight: 600;
+    border-bottom: 1px solid lightgrey;
+}
+
+.vehicle-list:last-child {
+    border-bottom: none;
+}

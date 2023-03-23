@@ -1,0 +1,11 @@
+.task-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.task-bar h2 {
+    font-size: 24px;
+    font-weight: 500;
+}
