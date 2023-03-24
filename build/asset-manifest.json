@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toll-management/static/css/main.0129ff8b.css",
+    "main.js": "/toll-management/static/js/main.cf603d55.js",
+    "index.html": "/toll-management/index.html",
+    "main.0129ff8b.css.map": "/toll-management/static/css/main.0129ff8b.css.map",
+    "main.cf603d55.js.map": "/toll-management/static/js/main.cf603d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0129ff8b.css",
+    "static/js/main.cf603d55.js"
+  ]
+}
